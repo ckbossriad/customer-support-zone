@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Login Issue",
+        "description": "Details about login issue reported by customer.",
+        "customer": "Heidi",
+        "priority": "High",
+        "status": "Closed",
+        "createdAt": "2025-09-15 19:25:18"
+    },
+    {
+        "id": 2,
+        "title": "Payment Failed",
+        "description": "Details about payment failed reported by customer.",
+        "customer": "Charlie",
+        "priority": "Low",
+        "status": "In Progress",
+        "createdAt": "2025-09-10 19:25:18"
+    },
+    {
+        "id": 3,
+        "title": "App Crash on Startup",
+        "description": "Details about app crash on startup reported by customer.",
+        "customer": "David",
+        "priority": "Critical",
+        "status": "In Progress",
+        "createdAt": "2025-09-19 19:25:18"
+    },
+    {
+        "id": 4,
+        "title": "Feature Request: Dark Mode",
+        "description": "Details about feature request: dark mode reported by customer.",
+        "customer": "Bob",
+        "priority": "Low",
+        "status": "Open",
+        "createdAt": "2025-09-04 19:25:18"
+    },
+    {
+        "id": 5,
+        "title": "Unable to Reset Password",
+        "description": "Details about unable to reset password reported by customer.",
+        "customer": "Heidi",
+        "priority": "High",
+        "status": "Closed",
+        "createdAt": "2025-09-23 19:25:18"
+    },
+    {
+        "id": 6,
+        "title": "Slow Performance",
+        "description": "Details about slow performance reported by customer.",
+        "customer": "Charlie",
+        "priority": "Low",
+        "status": "Resolved",
+        "createdAt": "2025-09-07 19:25:18"
+    },
+    {
+        "id": 7,
+        "title": "Bug in Checkout Page",
+        "description": "Details about bug in checkout page reported by customer.",
+        "customer": "Bob",
+        "priority": "Low",
+        "status": "Resolved",
+        "createdAt": "2025-08-27 19:25:18"
+    },
+    {
+        "id": 8,
+        "title": "Email Notifications Not Working",
+        "description": "Details about email notifications not working reported by customer.",
+        "customer": "Ivan",
+        "priority": "Critical",
+        "status": "Closed",
+        "createdAt": "2025-09-10 19:25:18"
+    },
+    {
+        "id": 9,
+        "title": "Data Sync Problem",
+        "description": "Details about data sync problem reported by customer.",
+        "customer": "Frank",
+        "priority": "Low",
+        "status": "In Progress",
+        "createdAt": "2025-09-06 19:25:18"
+    },
+    {
+        "id": 10,
+        "title": "Error 404 on Dashboard",
+        "description": "Details about error 404 on dashboard reported by customer.",
+        "customer": "David",
+        "priority": "High",
+        "status": "In Progress",
+        "createdAt": "2025-08-31 19:25:18"
+    },
+    {
+        "id": 11,
+        "title": "Mobile App Freezing",
+        "description": "Details about mobile app freezing reported by customer.",
+        "customer": "Charlie",
+        "priority": "Low",
+        "status": "In Progress",
+        "createdAt": "2025-09-16 19:25:18"
+    },
+    {
+        "id": 12,
+        "title": "Refund Not Processed",
+        "description": "Details about refund not processed reported by customer.",
+        "customer": "Charlie",
+        "priority": "Critical",
+        "status": "Closed",
+        "createdAt": "2025-08-28 19:25:18"
+    },
+    {
+        "id": 13,
+        "title": "Access Denied Error",
+        "description": "Details about access denied error reported by customer.",
+        "customer": "David",
+        "priority": "High",
+        "status": "Resolved",
+        "createdAt": "2025-09-19 19:25:18"
+    },
+    {
+        "id": 14,
+        "title": "UI Misalignment in Profile Page",
+        "description": "Details about ui misalignment in profile page reported by customer.",
+        "customer": "Bob",
+        "priority": "High",
+        "status": "Resolved",
+        "createdAt": "2025-08-31 19:25:18"
+    },
+    {
+        "id": 15,
+        "title": "Two-Factor Authentication Problem",
+        "description": "Details about two-factor authentication problem reported by customer.",
+        "customer": "Judy",
+        "priority": "Critical",
+        "status": "In Progress",
+        "createdAt": "2025-09-02 19:25:18"
+    }
+]
